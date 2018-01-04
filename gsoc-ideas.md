@@ -21,21 +21,15 @@ Now it is a perfect time for new developers who want to develop nice web or mobi
 ### Freeplane web client (prototype)
 This project can start implementation of java script mind map editor client for web browsers using Freeplane server as a backend. It should make Freeplane mind maps accessible and editable from every internet browser. Different to existing online only editors the maps are instantly shared with Freeplane clients combining accessibility from everywhere with rich application power.
 
-  * **Technology:** JavaScript, OAuth 2.0, Web Sockets, Frontend Framework like React or Angular 2 - you name it.
+  * **Technology:** JavaScript, OAuth 2.0, Web Sockets, Frontend Framework like React or Angular 2 or later - you name it.
   * **Mentors**:
     * Dimitry https://sourceforge.net/u/dpolivaev
+    * Volker https://sourceforge.net/u/boercher
 
-### Freeplane android client (prototype)
-This project can start implementation of android mind map editor app using Freeplane server for collaboration and synchronisation. It should make Freeplane mind maps accessible and editable from android smart phones and tablets. Different to existing free android apps the maps can be instantly shared with Freeplane clients combining accessibility from everywhere with rich application power.
+### Freeplane android or iOS client (prototype)
+This project can start implementation of android or iOS mind map editor app using Freeplane server for collaboration and synchronisation. It should make Freeplane mind maps accessible and editable from android or iOS smart phones and tablets. Differently from existing apps the maps can be instantly shared with Freeplane clients combining accessibility from everywhere with rich application power.
 
-  * **Technology:** Android SDK, OAuth 2.0, Web Sockets, your language of choice for android development
-  * **Mentors**:
-    * Dimitry https://sourceforge.net/u/dpolivaev
-
-### Freeplane iOS client (prototype)
-This project can start implementation of iOS mind map editor app using Freeplane server for collaboration and synchronisation. It should make Freeplane mind maps accessible and editable from iPhones and iPads. Different to existing free iOS apps the maps can be instantly shared with Freeplane clients combining accessibility from everywhere with rich application power.
-
-  * **Technology:** OAuth 2.0, Web Sockets, your language of choice for iOS development
+  * **Technology:** OAuth 2.0, Web Sockets, your language of choice for android or iOS development
   * **Mentors**:
     * Dimitry https://sourceforge.net/u/dpolivaev
 
