@@ -8,13 +8,13 @@ Freeplane is applying to be a mentoring Organization for the Google Summer of Co
 
 ## Project ideas
 
-Freeplane core team has started development of Freeplane server as a green field project which allows to collaboratively develop and synchronize Freeplane mind maps from different devices and clients.
+Freeplane core team has started development of Freeplane server as a greenfield project which allows to collaboratively develop and synchronize Freeplane mind maps from different devices and clients.
 
-The server receives map updates as an event stream from the clients and can disctribute them instantly or when a new client connects. Map updates have different types. And connected clients do not need to understand each of them. It makes possible to write clients which at the beginning only need to process the map structure and the node text updates. All other kinds of information can be ignored, and thus the same map can be processed on different devices safely and even at the same time getting instant updates.
+The server receives map updates as an event stream from the clients and can distribute them instantly or when a new client connects. Map updates have different types. And connected clients do not need to understand all of them. It makes possible to write clients which at the beginning only need to process the map structure and the node text updates. All other kinds of information can be ignored, and thus the same map can be processed on different devices safely and even at the same time getting instant updates.
 
-It makes possible to continue use a feature rich mind map application and have power of collaboration and sharing mind maps among different computers and users.
+It makes possible to continue to use a feature-rich mind map application and have power of collaboration and sharing mind maps among different computers and users.
 
-It also allows to develop web and mobile clients supporting only small subset of freeplane functionality. The map can still be processed on the full freeplane client because no information is lost in this process.
+It also allows developing web and mobile clients supporting an only small subset of freeplane functionality. The map can still be processed on the full freeplane client because no information is lost in this process.
 
 Now it is a perfect time for new developers who want to develop nice web or mobile app to be added to freeplane ecosystem to get in touch with us because new APIs and protocols are defined right now and could be adapted to your needs too.
 
