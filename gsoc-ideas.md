@@ -60,17 +60,3 @@ Subscribe to the developer mailing list at http://freeplane-developer.996965.n3.
 You can contact also the project lead directly by e-mail to dimitry (at) freeplane (dot) org
 
 Get in touch with the user community at https://sourceforge.net/p/freeplane/discussion/758437/
-
-
-## About your project application
-
-Your proposal can contain the following information, plus anything you think is relevant:
-
-* Your name
-* Title of your proposal
-* Abstract of your proposal
-* Detailed description of what you are going to contribute
-* Mention the details of your academic studies, any previous work, internships
-* Relevant skills that will help you to achieve the goal (programming languages, frameworks)?
-* Any previous open-source projects (or even previous GSoC) you have contributed to and links.
-* Do you plan to have any other commitments during GSoC that may affect your work? Any vacations/holidays? Will you be available full time to work on your project? (Hint: do not bother applying if this is not a serious full time commitment)
